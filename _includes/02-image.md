@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pepe the Frog](http://www.pngmart.com/files/11/Sad-Pepe-The-Frog-PNG-Transparent.png)
